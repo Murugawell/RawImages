@@ -2,7 +2,23 @@
   "faq": [
     {
       "question": "How to add new favourite?",
-      "answer": "Click on the <b>+</b> (add button) at the bottom of the trip notes page. <br><font color=#00FF00> Please enter the following details to create new trip.</font><br>\t\t<b><font color=#00FF00>•</font></b>Enter the name of trip.<br>\t\t<b><font color=#00FF00>•</font></b>Enter the estimated amount for the trip.<br>\t\t<b><font color=#00FF00>•</font></b>Enter the source (from) and destination (to) address.<br>\t\t<b><font color=#00FF00>•</font></b>Click the add button."
+      "answer": "You can add new favourite by 2 ways.<br><br>\t1)Repeat the text and add as favourite <br>\t\t<font color=#00FF00>•</font>Enter repeat text<br>\t\t<font color=#00FF00>•</font>Enter how many times you want to repeat the text<br>\t\t<font color=#00FF00>•</font>Choose type of spacing (From list or own)<br>\t\t<font color=#00FF00>•</font>Click start repeating button<br>\t\t<font color=#00FF00>•</font>After successfully repeated click on the Favourite button <br><br>\t2)Directly add new favourite <br>\t\t<font color=#00FF00>•</font>Click Favourite List icon button at the right bottom<br>\t\t<font color=#00FF00>•</font>Click add favourite icon button at the right bottom<br>\t\t<font color=#00FF00>•</font>Enter repeat text<br>\t\t<font color=#00FF00>•</font>Enter how many times you want to repeat the text<br>\t\t<font color=#00FF00>•</font>Choose type of spacing (From list or own)<br>\t\t<font color=#00FF00>•</font>Click add favourite button"
+    },
+    {
+      "question": "How to add new quick access in widget?",
+      "answer": "You can add quick access in widget by 2 ways.<br><br>\t1)From favourite <br>\t\t<font color=#00FF00>•</font>Long press on othe favourite list. A dialog will allow you add the particular favourite in quick access <br><br>\t2)Directly add new quick access <br>\t\t<font color=#00FF00>•</font>Click Quick Access List icon button at the left bottom<br>\t\t<font color=#00FF00>•</font>Click add quick access icon button at the right bottom<br>\t\t<font color=#00FF00>•</font>Enter repeat text<br>\t\t<font color=#00FF00>•</font>Enter how many times you want to repeat the text<br>\t\t<font color=#00FF00>•</font>Choose type of spacing (From list or own)<br>\t\t<font color=#00FF00>•</font>Click the add quick access widget button"
+    },
+    {
+      "question": "How to use quick access widget?",
+      "answer": "<font color=#ff0000>You have to enable the Draw Over Other Apps permission.</font> Otherwise you can't able to use this feature.<br><br>\t\t<font color=#00FF00>•</font>Click Quick Access List icon button at the left bottom.You will be redirected to quick access widget page. <br>\t\t<font color=#00FF00>•</font>Click on the enable radio button.<br><br>You can copy the repeated text by long pressing on list item."
+    },
+    {
+      "question": "How to copy repeated text in quick access widget?",
+      "answer": "Long press on list item to copy the repeated text"
+    },
+    {
+      "question": "What are all the limitations ?",
+      "answer": "You can repeat the text upto 1,20,000 characters to use this app features like copy, share, quick access widget.<br>(i.e)If your repeat text length 10 and spacing text length 1 and your repeat count should be maximum upto 10000. Then only you can use all the features of this app like copy, share, add favourite.<br><br><font color=#ff0000>If you want to repeat more than 1,20,000 character repeated text , you can repeat the text by using this app but you have to copy the repeated text manually and paste it anywhere</font>"
     }
   ]
 }
